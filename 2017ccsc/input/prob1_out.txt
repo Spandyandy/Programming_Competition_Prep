@@ -1,0 +1,5 @@
+Different States Surveyed = 11
+Total Full Eclipses Reported = 15
+Total Partial Eclipses Reported = 6
+Total No Eclipses Reported = 2
+State With Most Responses = NC

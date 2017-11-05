@@ -1,0 +1,15 @@
+FOOTBALL and BALL have an overlap length of 4
+ALE and APPLE have an overlap length of 0
+CLEMSON and SON have an overlap length of 3
+SC and C have an overlap length of 1
+APPLE and LEMON have an overlap length of 2
+ALE and ALERT have an overlap length of 3
+ALERT and ALE have an overlap length of 0
+LEMON and APPLE have an overlap length of 0
+SON and CLEMSON have an overlap length of 0
+FURMAN and MANKIND have an overlap length of 3
+C and SC have an overlap length of 0
+TARHEEL and HEELS have an overlap length of 4
+C and C have an overlap length of 1
+ALE and ALE have an overlap length of 3
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA and AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA have an overlap length of 71

@@ -1,0 +1,14 @@
+SC F
+AL P
+SC F
+TN P
+UT P
+VA F
+SC F
+WA F
+WV F
+WI P
+WY N
+TN P
+TN F
+-1

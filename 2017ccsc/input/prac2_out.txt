@@ -1,0 +1,15 @@
+11111111:solid
+00000000:solid
+99999999:solid
+99999990:high
+00000001:low
+00000100:low
+99999990:high
+99999999:solid
+99999991:high
+19999999:seven in a row
+33333331:seven in a row
+31333333:seven of a kind
+13111111:seven of a kind
+41411111:no pattern
+41441111:no pattern
